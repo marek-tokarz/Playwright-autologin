@@ -1,0 +1,1 @@
+I have used a Node.js and Playwright to test logging to a webpage. A form in that page is not properly read by a webbrowser - it is treated as a home address, not as a logging form - so I could not store a password.
